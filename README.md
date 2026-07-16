@@ -32,12 +32,19 @@ tail                (show the last lines of file )   tail -n 10 file.txt
 
 investigting the system: 
 Whoami - print username 
+
 uname -a  details about the OS 
+
 uname - prints OS
+
 df -h check disk and storage disk 
+
 top - display running processes 
+
 os-release - provides details about linux distribution 
+
 cd /etc - configuration and informational files in /etc directory 
+
 id - show user and group info 
 
 
